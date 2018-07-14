@@ -6,10 +6,10 @@ Using Bluetooth of specific device providing file view (decrypt) and protecting 
 
 
 __________________________________________________________________________________________________________________________
- Here in the project
+# Here in the project
  
- 1) Object of the project
- ==========================
+ # 1) Objective
+ 
    To secure the private information of users and their files and folder in system .
    And to provide accessibility only in presence of some specific keys.
    Else wise in their absence, save them as encrypted mode to enhance security.
@@ -17,8 +17,8 @@ ________________________________________________________________________________
  
  _________________________________________________________________________________________________________________________
  
- 2) Implementation
- ==================
+# 2) Implementation
+
  the project has been developed in three steps-
  * Connecting the bluetooth of specific user.
  * Protecting the file via Rijndael algo.
@@ -26,8 +26,8 @@ ________________________________________________________________________________
  
  _________________________________________________________________________________________________________________________
  
- 5. Bluetooth
- ===============
+ # 3. Bluetooth
+
 * Bluetooth is the most commonly used technology for Point to Point short range of communication
    of wide range  devices for data tranfer and controls.
  * Besides from being commonly used, it also offers multi connection.
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________
 
  4.Introduction to RIJNDAEL
-============================
+
 
 * Rijndael is the block cipher algorithm recently chosen as the Advanced Encryption Standard (AES).
 * Therefore, the encryption or decryption of a block of data is accomplished by the iteration (a round)
@@ -48,9 +48,9 @@ ________________________________________________________________________________
  
  ____________________________________________________________________________________________________________________________
  
-  Thus, coupling the widespread accessibility of Bluetooth and powerful block cipher algorithm of Rijndael,
-  a Two Factor Authentication System [T-FA]  created which will not only overcome the disadvantages of passwords,
-  but will also create much safe, protected emvironment and also will provide much better user inface system too.
+  # Thus, coupling the widespread accessibility of Bluetooth and powerful block cipher algorithm of Rijndael,
+  # a Two Factor Authentication System [T-FA]  created which will not only overcome the disadvantages of passwords,
+  # but will also create much safe, protected emvironment and also will provide much better user inface system too.
   
   _____________________________________________________________________________________________________________________________
 
