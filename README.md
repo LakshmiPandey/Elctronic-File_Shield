@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________
 
- 4.Introduction to RIJNDAEL
+ # 4.Introduction to RIJNDAEL
 
 
 * Rijndael is the block cipher algorithm recently chosen as the Advanced Encryption Standard (AES).
@@ -48,9 +48,9 @@ ________________________________________________________________________________
  
  ____________________________________________________________________________________________________________________________
  
-  # Thus, coupling the widespread accessibility of Bluetooth and powerful block cipher algorithm of Rijndael,
-  # a Two Factor Authentication System [T-FA]  created which will not only overcome the disadvantages of passwords,
-  # but will also create much safe, protected emvironment and also will provide much better user inface system too.
+   Thus, coupling the widespread accessibility of Bluetooth and powerful block cipher algorithm of Rijndael,
+   a Two Factor Authentication System [T-FA]  created which will not only overcome the disadvantages of passwords,
+   but will also create much safe, protected emvironment and also will provide much better user inface system too.
   
   _____________________________________________________________________________________________________________________________
 
