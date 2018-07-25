@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________
 
- # 4.Introduction to RIJNDAEL
+ # 4.Introduction to RIJNDAEL Algorithm
 
 
 * Rijndael is the block cipher algorithm recently chosen as the Advanced Encryption Standard (AES).
